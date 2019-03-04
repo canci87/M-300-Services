@@ -12,7 +12,7 @@ Dokumentation
 
 1. Git-Bash öffnen
 2. Folgenden Befehl mit der Account Mail von GitHub einfügen
-      ``` `ssh-keygen -t rsa -b 4096 -C "githubmail"` ```
+      <br>`ssh-keygen -t rsa -b 4096 -C "githubmail"`
 3. SSH-Key wird erstellt
       Generating public/private rsa key pair
 4. Schlüsselname eingeben oder direkt mit Enter bestätigen
