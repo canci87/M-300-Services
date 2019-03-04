@@ -4,7 +4,7 @@ Dokumentation
 ### Übersicht
 ***
 
-1. [SSH Key erstellen] (#-01-SSH-Key-erstellen)
+* 1. [SSH Key erstellen] (#-01-SSH-Key-erstellen)
 2. SSH Key hinzufügen
 3. Client Konfigurieren
 
