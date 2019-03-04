@@ -14,9 +14,9 @@ Dokumentation
 2. Folgenden Befehl mit der Account Mail von GitHub einfügen
       <br>`ssh-keygen -t rsa -b 4096 -C "githubmail"`
 3. SSH-Key wird erstellt
-      Generating public/private rsa key pair
+      <br>`Generating public/private rsa key pair`
 4. Schlüsselname eingeben oder direkt mit Enter bestätigen
-      Enter a file in which to save the key (~/.ssh/id_rsa): [Press Enter]
+      <br>`Enter a file in which to save the key (~/.ssh/id_rsa): [Press Enter]`
 5. Nun wird ein Passwort für den Key festgelegt
-      Enter passphrase (empty for no passphrase):
-      Enter same passphrase again:
+      <br>`Enter passphrase (empty for no passphrase):`
+      <br>`Enter same passphrase again:`
