@@ -5,11 +5,12 @@ Dokumentation
 ***
 
 1. SSH Key erstellen
-2. SSh Key hinzufügen
+2. SSH Key hinzufügen
 3. Client Konfigurieren
 
 
 ### SSH Key erstellen
+***
 
 1. Git-Bash öffnen
 2. Folgenden Befehl mit der Account Mail von GitHub einfügen
@@ -21,3 +22,6 @@ Dokumentation
 5. Nun wird ein Passwort für den Key festgelegt
       <br>`Enter passphrase (empty for no passphrase):`
       <br>`Enter same passphrase again:`
+
+### SSH Key hinzufügen
+*****
