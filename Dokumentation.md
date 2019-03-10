@@ -5,14 +5,13 @@ Dokumentation
 ***
 
 * 01 - [GitHub Account](#-01---github-account)
-======
 
 2. SSH Key hinzufügen
 3. Client Konfigurieren
 
 
 [] 01 - GitHub Account 
-===
+
 
 
 1. Git-Bash öffnen
