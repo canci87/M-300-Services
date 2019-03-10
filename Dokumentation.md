@@ -11,9 +11,7 @@ Dokumentation
 3. Client Konfigurieren
 
 
-01 - GitHub Account 
-======
-
+[] 01 - GitHub Account 
 ===
 
 
