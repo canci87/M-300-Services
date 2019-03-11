@@ -6,9 +6,9 @@ Dokumentation
 
 * 01 - [GitHub Account](#01---github-account)
 * 01.01 - [Synchronistation Lokal -> Online](#01.01---Synchronisation-Lokal-->-Online)
-
-2. SSH Key hinzufügen
-3. Client Konfigurieren
+* 01.02 - [Synchronisation Online -> Lokal](#01.02--Synchronisation-Online-->-Lokal)
+* 02 - [SSH-Key hinzufügen](#02---SSH-Key-hinzufügen)
+* 03 - [Client Konfigurieren](#03---Client-Konfigurieren)
 
 
 01 - GitHub Account 
@@ -28,7 +28,34 @@ Dokumentation
 
 
 01.01 - Synchronisation Lokal -> Online
-==
+====
+
+
+1. Git-Bash öffnen
+2. Ins Verzechniss wechseln welches gesynct werden soll
+3. Folgende Befehl eingeben
+      <br>`git add -A`
+      <br>`git commit -m "Kommentar"`
+      <br>`git push`
+4. Synchronisation erfolgreich
+
+
+01.02 - Synchronisation Online -> Lokal
+====
+
+1. Git-Bash öffnen
+2. Folgenden Befehl eingeben
+      <br>`git pull`
+3. Synchronisation Erfolgreich
+
+
+1. Git-Bash öffnen
+2. Ins Verzechniss wechseln welches gesynct werden soll
+3. Folgende Befehl eingeben
+      <br>`git add -A`
+      <br>`git commit -m "Kommentar"`
+      <br>`git push`
+4. Synchronisation erfolgreich
 
 02 SSH Key hinzufügen
 ====
