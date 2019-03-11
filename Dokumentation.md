@@ -13,8 +13,8 @@ Dokumentation
 * 05 - [Vagrant Boxen](#05---Vagrant-Boxen)
 
 
-01 - GitHub Account 
-===== 
+### 01 - GitHub Account 
+***
 
 
 1. Git-Bash öffnen
