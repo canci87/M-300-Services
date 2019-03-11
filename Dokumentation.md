@@ -88,4 +88,4 @@ Dokumentation
 [Ubuntu Standard][1]
 
 [1]: https://github.com/canci87/M-300-Services/tree/master/VagrantBox/ubuntu
-[Ubuntu standard] (https://github.com/canci87/M-300-Services/tree/master/VagrantBox/ubuntu)
+
