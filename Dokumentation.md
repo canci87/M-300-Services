@@ -57,7 +57,7 @@ Dokumentation
       <br>`git push`
 4. Synchronisation erfolgreich
 
-02 SSH Key hinzufügen
+02 - SSH Key hinzufügen
 ====
 
 
@@ -70,8 +70,8 @@ Dokumentation
 7. Der Schlüssel taucht nun in der übergeordneten Liste auf
 
 
-03 Client konfigurieren
-===
+03 - Client konfigurieren
+====
 
 
 1. Git-Bash öffnen
