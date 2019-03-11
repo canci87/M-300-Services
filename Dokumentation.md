@@ -9,6 +9,7 @@ Dokumentation
 * 01.02 - [Synchronisation Online -> Lokal](#0102---synchronisation-online---lokal)
 * 02 - [SSH-Key hinzufügen](#02---SSH-Key-hinzufügen)
 * 03 - [Client Konfigurieren](#03---Client-Konfigurieren)
+* 04 - [Vagrant Boxen](#04---Vagrant-Boxen)
 
 
 01 - GitHub Account 
@@ -79,3 +80,9 @@ Dokumentation
       <br>`git config --global user.name "username"`
       <br>`git config --global user.email "email"`
 3. Konfiguration abgeschlossen
+
+
+04 - Vagrant Boxen
+====
+
+1. Ubuntu standard (https://github.com/canci87/M-300-Services/tree/master/VagrantBox/ubuntu)
