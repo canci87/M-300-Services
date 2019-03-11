@@ -29,8 +29,8 @@ Dokumentation
       <br>`Enter same passphrase again:`
 
 
-01.01 - Synchronisation Lokal -> Online
-====
+### 01.01 - Synchronisation Lokal -> Online
+***
 
 
 1. Git-Bash öffnen
@@ -42,8 +42,8 @@ Dokumentation
 4. Synchronisation erfolgreich
 
 
-01.02 - Synchronisation Online -> Lokal
-====
+### 01.02 - Synchronisation Online -> Lokal
+***
 
 1. Git-Bash öffnen
 2. Folgenden Befehl eingeben
@@ -59,8 +59,8 @@ Dokumentation
       <br>`git push`
 4. Synchronisation erfolgreich
 
-02 - SSH Key hinzufügen
-====
+### 02 - SSH Key hinzufügen
+***
 
 
 1. Auf www.github.com anmelden
@@ -72,8 +72,8 @@ Dokumentation
 7. Der Schlüssel taucht nun in der übergeordneten Liste auf
 
 
-03 - Client konfigurieren
-====
+### 03 - Client konfigurieren
+***
 
 
 1. Git-Bash öffnen
@@ -83,14 +83,14 @@ Dokumentation
 3. Konfiguration abgeschlossen
 
 
-04 - Vagrant Befehle
-====
+### 04 - Vagrant Befehle
+***
 
 Test
 
 
-05 - Vagrant Boxen
-====
+### 05 - Vagrant Boxen
+***
 
 [Ubuntu Standard][1]
 <br> [Debian mit DHCP Server][2]
