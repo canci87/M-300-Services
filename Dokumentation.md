@@ -5,9 +5,11 @@ Dokumentation
 ***
 
 * 01 - [GitHub Account](#01---github-account)
-
-2. SSH Key hinzufügen
-3. Client Konfigurieren
+* 01.01 - [Synchronistation Lokal -> Online](#0101---synchronisation-lokal---online)
+* 01.02 - [Synchronisation Online -> Lokal](#0102---synchronisation-online---lokal)
+* 02 - [SSH-Key hinzufügen](#02---SSH-Key-hinzufügen)
+* 03 - [Client Konfigurieren](#03---Client-Konfigurieren)
+* 04 - [Vagrant Boxen](#04---Vagrant-Boxen)
 
 
 01 - GitHub Account 
@@ -26,8 +28,38 @@ Dokumentation
       <br>`Enter same passphrase again:`
 
 
-02 SSH Key hinzufügen
-===
+01.01 - Synchronisation Lokal -> Online
+====
+
+
+1. Git-Bash öffnen
+2. Ins Verzechniss wechseln welches gesynct werden soll
+3. Folgende Befehl eingeben
+      <br>`git add -A`
+      <br>`git commit -m "Kommentar"`
+      <br>`git push`
+4. Synchronisation erfolgreich
+
+
+01.02 - Synchronisation Online -> Lokal
+====
+
+1. Git-Bash öffnen
+2. Folgenden Befehl eingeben
+      <br>`git pull`
+3. Synchronisation Erfolgreich
+
+
+1. Git-Bash öffnen
+2. Ins Verzechniss wechseln welches gesynct werden soll
+3. Folgende Befehl eingeben
+      <br>`git add -A`
+      <br>`git commit -m "Kommentar"`
+      <br>`git push`
+4. Synchronisation erfolgreich
+
+02 - SSH Key hinzufügen
+====
 
 
 1. Auf www.github.com anmelden
@@ -39,8 +71,8 @@ Dokumentation
 7. Der Schlüssel taucht nun in der übergeordneten Liste auf
 
 
-03 Client konfigurieren
-===
+03 - Client konfigurieren
+====
 
 
 1. Git-Bash öffnen
@@ -48,3 +80,12 @@ Dokumentation
       <br>`git config --global user.name "username"`
       <br>`git config --global user.email "email"`
 3. Konfiguration abgeschlossen
+
+
+04 - Vagrant Boxen
+====
+
+[Ubuntu Standard][1]
+
+[1]: https://github.com/canci87/M-300-Services/tree/master/VagrantBox/ubuntu
+
