@@ -6,7 +6,7 @@ Dokumentation
 
 * 01 - [GitHub Account](#01---github-account)
 * 01.01 - [Synchronistation Lokal -> Online](#0101---synchronisation-lokal---online)
-* 01.02 - [Synchronisation Online -> Lokal](#0102--Synchronisation-Online-->-Lokal)
+* 01.02 - [Synchronisation Online -> Lokal](#0102---synchronisation-online---lokal)
 * 02 - [SSH-Key hinzufügen](#02---SSH-Key-hinzufügen)
 * 03 - [Client Konfigurieren](#03---Client-Konfigurieren)
 
