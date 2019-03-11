@@ -5,6 +5,7 @@ Dokumentation
 ***
 
 * 01 - [GitHub Account](#01---github-account)
+* 01.01 - [Synchronistation Lokal -> Online](#01.01---Synchronisation-Lokal-->-Online)
 
 2. SSH Key hinzufügen
 3. Client Konfigurieren
@@ -26,8 +27,11 @@ Dokumentation
       <br>`Enter same passphrase again:`
 
 
+01.01 - Synchronisation Lokal -> Online
+==
+
 02 SSH Key hinzufügen
-===
+====
 
 
 1. Auf www.github.com anmelden
