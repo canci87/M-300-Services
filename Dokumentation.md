@@ -114,4 +114,4 @@ Bei der Firewall wurde lediglich konfiguriert, dass für alle der Port 8080 offe
 ### 07 - Reverse Proxy
 ***
 
-Reverse Proxy wurde eingerichtet, mit den Apache Modulen. Datei ist in sites-enabled/001-reverseproxy.conf eingetragen. Bei dieser habe ich nur den Servernamen als Localhost angegeben
+Der Reverse Proxy wollte ich eigentlich die Zusätzlichen Module von Apache, *libapache2-mod-proxy-html* und *libxml2-dev* verwenden, jedoch konnteich beide Packete nicht herunterladen, da sie nicht gefunden wurden. Auch mit dem zusätzlichen Parameter *-y* hat es nicht funkioniert. Die Zeit reichte mir am Ende nicht mehr, um das Problem zu lösen.
