@@ -122,7 +122,7 @@ Den Reverse Proxy wollte ich eigentlich die Zusätzlichen Module von Apache, *li
 ***
 
 | Was wird getestet     | Erwartetes Reslutat   | Resultat  |
-| ---------------------:| ---------------------:| ---------:|
+| :---------------------| :---------------------| :---------|
 | Test FW von Host nach vm port 8080      | Curl gibt postivie Ausgabe  | Positive Ausgabe      |
 | Auf Host Localhost im Browser anzeigen  | Apache start Website wird angezeigt     | Start Website wird angezeigt|
 
