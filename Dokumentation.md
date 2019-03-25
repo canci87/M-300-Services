@@ -114,4 +114,4 @@ Bei der Firewall wurde lediglich konfiguriert, dass für alle der Port 8080 offe
 ### 07 - Reverse Proxy
 ***
 
-Der Reverse Proxy wollte ich eigentlich die Zusätzlichen Module von Apache, *libapache2-mod-proxy-html* und *libxml2-dev* verwenden, jedoch konnteich beide Packete nicht herunterladen, da sie nicht gefunden wurden. Auch mit dem zusätzlichen Parameter *-y* hat es nicht funkioniert. Die Zeit reichte mir am Ende nicht mehr, um das Problem zu lösen.
+Den Reverse Proxy wollte ich eigentlich die Zusätzlichen Module von Apache, *libapache2-mod-proxy-html* und *libxml2-dev* verwenden, jedoch konnte ich beide Packete nicht herunterladen, da sie nicht gefunden wurden. Auch mit dem zusätzlichen Parameter *-y* hat es nicht funkioniert. Die Zeit reichte mir am Ende nicht mehr, um das Problem zu lösen.
