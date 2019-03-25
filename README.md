@@ -68,9 +68,9 @@ Dokumentation
 
 1. Auf www.github.com anmelden
 2. Zu den Einstellungen wechseln
-3. Bei den "personal settings" zu "SSH und GPG keys" wechseln
-4. Unter "title" eine Bezeichnung angeben (z.B. EC_SSH_Key)
-5. Datei "%HOME%/.ssh/id_rsa.pub" oder "$HOME/.ssh/id_rsa.pub" in Zwischenablage kopieren
+3. Bei den *personal settings* zu *SSH und GPG keys* wechseln
+4. Unter *title* eine Bezeichnung angeben (z.B. EC_SSH_Key)
+5. Datei *%HOME%/.ssh/id_rsa.pub* oder *$HOME/.ssh/id_rsa.pub* in Zwischenablage kopieren
 6. Den Code auf GitHub einfügen und auf "Add SSH key" klicken
 7. Der Schlüssel taucht nun in der übergeordneten Liste auf
 
