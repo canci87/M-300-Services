@@ -13,6 +13,7 @@ Dokumentation
 * 05 - [Vagrant Boxen](#05---Vagrant-Boxen)
 * 06 - [Firewall Konfig](#06---firewall-konfig)
 * 07 - [Reverse Proxy](#07---Reverse-Proxy)
+* 08 - [Testfälle](#08---Testfälle)
 
 
 ### 01 - GitHub Account 
@@ -115,3 +116,11 @@ Bei der Firewall wurde lediglich konfiguriert, dass für alle der Port 8080 offe
 ***
 
 Den Reverse Proxy wollte ich eigentlich die Zusätzlichen Module von Apache, *libapache2-mod-proxy-html* und *libxml2-dev* verwenden, jedoch konnte ich beide Packete nicht herunterladen, da sie nicht gefunden wurden. Auch mit dem zusätzlichen Parameter *-y* hat es nicht funkioniert. Die Zeit reichte mir am Ende nicht mehr, um das Problem zu lösen.
+
+
+### 008 - Testfälle
+***
+
+| Was wird getestet     | Erwartetes Reslutat   | Resultat  |
+| ---------------------:| ---------------------:| ---------:|
+| test FW von Host nach vm port 8080      | Curl gibt postivie Ausgabe  | Positive Ausgabe      |
