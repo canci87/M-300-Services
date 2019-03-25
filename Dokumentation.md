@@ -92,9 +92,7 @@ Test
 ### 05 - Vagrant Boxen
 ***
 
-[Ubuntu Standard][1]
-<br> [Debian mit DHCP Server][2]
+[Web Server][1]
 
-[1]: https://github.com/canci87/M-300-Services/tree/master/VagrantBox/ubuntu
-[2]: https://github.com/canci87/M-300-Services/tree/master/VagrantBox/debian
 
+[1]: https://github.com/canci87/M-300-Services/tree/master/VagrantBox/Web Server
