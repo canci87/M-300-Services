@@ -86,7 +86,11 @@ Dokumentation
 ### 04 - Vagrant Befehle
 ***
 
-Test
+* vagrant up -> startet die aktuelle VM
+* vagrant destroy -> stoppt und löscht die aktuelle VM
+* vagrant init "boxname" -> erstellt vagrantfile mit angegebener Box
+* vagrant suspend -> stoppt die aktuelle VM
+* vagrant status -> zeigt den aktuelle Status der VM an
 
 
 ### 05 - Vagrant Boxen
