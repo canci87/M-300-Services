@@ -12,6 +12,7 @@ Dokumentation
 * 04 - [Vagrant Befehle](#04---Vagrant-Befehle)
 * 05 - [Vagrant Boxen](#05---Vagrant-Boxen)
 * 06 - [Firewall Konfig](#06---firewall-konfig)
+* 07 - [Reverse Proxy](#07---Reverse-Proxy)
 
 
 ### 01 - GitHub Account 
@@ -109,3 +110,8 @@ Dokumentation
 Bei der Firewall wurde lediglich konfiguriert, dass für alle der Port 8080 offen ist, damit der Webserver erreicht werden kann.
 <br>`sudo ufw allow 8080/tcp`
 
+
+### 07 - Reverse Proxy
+***
+
+Reverse Proxy wurde eingerichtet, mit den Apache Modulen. Datei ist in sites-enabled/001-reverseproxy.conf eingetragen. Bei dieser habe ich nur den Servernamen als Localhost angegeben
