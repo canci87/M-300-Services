@@ -107,3 +107,5 @@ Dokumentation
 ***
 
 Bei der Firewall wurde lediglich konfiguriert, dass für alle der Port 8080 offen ist, damit der Webserver erreicht werden kann.
+<br>`sudo ufw allow 8080/tcp`
+
